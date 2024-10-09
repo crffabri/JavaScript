@@ -1,5 +1,5 @@
-let valor1 = 10;
-let valor2 = 10;
+// let valor1 = 10;
+// let valor2 = 10;
 
 
 // let res = valor > valor2 | false
@@ -14,6 +14,20 @@ let valor2 = 10;
 // let res = valor1 == valor2
 // let res = valor1 != valor2
 // console.log(res);
+
+
+// let isAluno, retorno;
+// isAluno = "sim" //R.A
+// isAluno = "não" //não tem R.A
+
+// retorno = isAluno == 'Não' ? "Não tem R.A" : 'Aluno tem R.A'
+
+
+// console.log(retorno);
+
+// //? = separação
+// // : = Um ou outro 
+
 
 let dinheiro = 700;
 let folga= true;
