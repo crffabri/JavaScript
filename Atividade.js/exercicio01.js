@@ -8,5 +8,5 @@ console.log(mensagem);
 
 let vdd = true;
 console.log("O valor é:" + vdd);
-let pi =3.1415;
+let pi =3.1415; //numero pi
 console.log("O valor do número pi é:" +pi);
